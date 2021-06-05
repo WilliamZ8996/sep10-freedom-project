@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+div {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #63BCC0;
+}
 h1 {
     text-align:center;
     padding-bottom: 20px;
@@ -6,7 +14,10 @@ h2 {
     text-align:center;
     padding: 10px;
 }
-p {
-    padding-left: 20px;
-    padding-right: 20px;
+img {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
