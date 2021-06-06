@@ -1,2 +1,2 @@
 # sep10-freedom-project
-This is my SEP 10 Freedom Project. In this project,I will use a large variety of things that I had learned from my SEP class this year from HTMl to using Bootsctrap. With these knowledge in web design, I am able to put together a website informing people about dentistry and the technologies being used in that field. I hope you enjoy my project and learn something new!
+This is my SEP 10 Freedom Project. In this project, I will use a large variety of things that I had learned from my SEP class this year from HTML to Bootsctrap. With these knowledge in web design, I am able to put together a website informing people about dentistry and the technologies being used in that field. I hope you enjoy my project and learn something new today!
